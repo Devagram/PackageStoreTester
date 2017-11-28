@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MainApp
+comment0.text=\n\ This\ is\ the\ main\ class\ of\ the\ ShippingStore\ database\ manager.\ It\ provides\ a\n\ console\ for\ a\ user\ to\ use\ the\ 5\ main\ commands.\n\n\ @author\ Junye\ Wen\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ This\ method\ will\ begin\ the\ user\ interface\ console.\ Main\ uses\ a\ loop\ to\n\ continue\ doing\ commands\ until\ the\ user\ types\ '6'.\ A\ lot\ of\ user\ input\n\ validation\ is\ done\ in\ the\ loop.\ At\ least\ enough\ to\ allow\ the\ interface\n\ with\ ShippingStore\ to\ be\ safe.\n\n\ @param\ args\ this\ program\ expects\ no\ command\ line\ arguments\n\ @throws\ Exception\n
+numComments=2

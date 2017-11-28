@@ -1,0 +1,3 @@
+00001 Postcard Fragile First-Class 1.00 1
+00002 Postcard Fragile First-Class 2.00 2
+00003 Postcard Fragile First-Class 3.00 3
